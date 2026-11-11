@@ -1,0 +1,2 @@
+# Kodirepos
+Repositorios de Kodi 
